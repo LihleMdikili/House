@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'din';
+    src: url('../assets/fonts/DINPro400.otf') format('opentype');
+}
+ @font-face {
+    font-family: 'din-cond';
+    src: url('../assets/fonts/DINProCondensedRegular400.otf') format('opentype');
+ }
+ @font-face {
+    font-family: 'din-bold';
+    src: url('../assets/fonts/DINProBold700.otf') format('opentype');
+ }
+ @font-face {
+    font-family: 'proximaNova-regularSS';
+    src: url('../assets/fonts/FontsFree-Net-proxima_nova_reg-webfont.ttf') format('truetype');
+  }
